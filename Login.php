@@ -40,6 +40,7 @@
     ?>
 		<div class="login">
 		<h1>Login</h1>
+        <h2>TuneSource</h2>
 		<form method="POST">
 			<div>
 			<p>Username</p>
